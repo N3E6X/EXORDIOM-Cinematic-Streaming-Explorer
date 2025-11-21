@@ -1872,7 +1872,7 @@
             elements.liveTvPlayer.pause();
 
             elements.videoPlayer.src = playerUrl;
-            elements.videoPlayer.setAttribute('sandbox', 'allow-scripts  allow-fullscreen');
+            elements.videoPlayer.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-fullscreen');
             elements.playerModal.classList.remove('hidden');
             document.body.style.overflow = 'hidden';
         }
