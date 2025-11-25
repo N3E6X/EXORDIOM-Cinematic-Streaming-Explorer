@@ -1,11 +1,6 @@
 # 🌌 EXORDIOM
-### The Cinematic Streaming Experience. Redefined.
 
-![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&color=2ea44f)
-![UI/UX](https://img.shields.io/badge/Design-Glassmorphism-blueviolet?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Architecture-Self--Healing-orange?style=for-the-badge)
-
-> *[*[🔴 LIVE DEMO LINK ]** ](https://exordiom.netlify.app/)
+> [🔴 LIVE DEMO LINK ](https://exordiom.netlify.app/)
 
 **EXORDIOM** is a next-generation media application engineered for immersion. By combining a cinematic **Glassmorphism UI** with a **self-sustaining backend architecture**, EXORDIOM delivers a seamless streaming experience across Movies, TV Series, and Live TV channels.
 
@@ -18,7 +13,7 @@ To deliver a premium experience, EXORDIOM is built upon three advanced technical
 ### 1. 🎨 State-of-the-Art UI/UX Architecture
 We utilize the latest frontend methodologies to create an app that feels alive.
 *   **Cinematic Immersion:** Deep dark themes overlaid with subtle film grain textures.
-*   **Glassmorphism 2.0:** Real-time background blurring and frosted glass panels for a sense of depth.
+*   **Glassmorphism :** Real-time background blurring and frosted glass panels for a sense of depth.
 *   **Liquid Motion:** Physics-based transitions and micro-interactions using modern animation libraries.
 
 ### 2. ⚡ Autonomous Content Synchronization
@@ -61,18 +56,6 @@ A custom-built media player designed for power users:
 | Home Page | Mobile View | Player Interface |
 |:---:|:---:|:---:|
 | ![Home](https://via.placeholder.com/300x150?text=Place+Your+Screenshot) | ![Mobile](https://via.placeholder.com/150x300?text=Mobile+Screenshot) | ![Player](https://via.placeholder.com/300x150?text=Player+Screenshot) |
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
 
 ---
 
