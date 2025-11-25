@@ -53,7 +53,7 @@ A custom-built media player designed for power users:
 
 | Home Page | Mobile View | Player Interface |
 |:---:|:---:|:---:|
-| ![Home](https://via.placeholder.com/300x150?text=Place+Your+Screenshot) | ![Mobile](https://via.placeholder.com/150x300?text=Mobile+Screenshot) | ![Player](https://via.placeholder.com/300x150?text=Player+Screenshot) |
+| ![Home](https://github.com/N3E6X/EXORDIOM-Cinematic-Streaming-Explorer/blob/main/image/Home%20Page.png) | ![Mobile](https://via.placeholder.com/150x300?text=Mobile+Screenshot) | ![Player](https://via.placeholder.com/300x150?text=Player+Screenshot) |
 
 ---
 
