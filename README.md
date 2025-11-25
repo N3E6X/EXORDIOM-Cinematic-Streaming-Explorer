@@ -1,7 +1,5 @@
 # 🌌 EXORDIOM
 
-> [🔴 LIVE DEMO LINK ](https://exordiom.netlify.app/)
-
 **EXORDIOM** is a next-generation media application engineered for immersion. By combining a cinematic **Glassmorphism UI** with a **self-sustaining backend architecture**, EXORDIOM delivers a seamless streaming experience across Movies, TV Series, and Live TV channels.
 
 ---
